@@ -1,0 +1,14 @@
+{
+  "channels": {
+    "whisplay-im": {
+      "enabled": true,
+      "accounts": {
+        "default": {
+          "ip": "YOUR_PI_IP:18888",
+          "token": "YOUR_SHARED_SECRET_TOKEN",
+          "waitSec": 60
+        }
+      }
+    }
+  }
+}

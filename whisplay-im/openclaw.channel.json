@@ -1,0 +1,6 @@
+{
+  "name": "whisplay-im",
+  "displayName": "Whisplay IM",
+  "description": "HTTP bridge channel for Whisplay IM chatbot (configure devices in channels.whisplay-im.accounts)",
+  "config": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "whisplay-im",
+  "channels": ["whisplay-im"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
